@@ -6,6 +6,11 @@ public class Demo {
 	public static void main(String[] args) {
 		
 		System.out.println("Sabir");
+		
+		int a = 20 ;
+		int b = 30 ;
+		int result = a + b ;
+		System.out.println(result);
 	}
 }
 
@@ -26,5 +31,9 @@ in gitHub
 1 > click Icon Select new repository
 2 > enter repository name : make sure it is same as your project name
 3 > click create repository
+4 > Go back to eclipse
+5 > right click on project name > Team > Commite...
+6 > ones moved to remote repository we will go to github and check if it is there
+
 
 */
